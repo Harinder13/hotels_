@@ -1,0 +1,2 @@
+const toll=(fx)=>{
+    fx();
